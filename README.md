@@ -16,4 +16,4 @@ Created by Ondrej Planer ([oplaner4@gmail.com](mailto:oplaner4@gmail.com))
 
 ## License
 
-This product is owned by Masaryk University in Brno.
+MIT
