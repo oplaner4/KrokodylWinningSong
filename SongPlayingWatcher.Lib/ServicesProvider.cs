@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KrokodylWinningSongTrigger
+namespace SongPlayingWatcher.Lib
 {
     internal class ServicesProvider
     {

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SongPlayingWatcher": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\oplan\\Music\\Pink Floyd - The Division Bell\\Lost For Words.mp3\" -u \"C:\\Users\\oplan\\Music\\Pink Floyd - The Division Bell\\Lost For Words.mp3\" -p 5 -e notepad \"\""
+    }
+  }
+}

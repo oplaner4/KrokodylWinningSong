@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "KrokodylWinningSongTrigger": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\oplan\\Music\\Pink Floyd - The Division Bell\\Lost For Words.mp3\" -k"
-    }
-  }
-}
